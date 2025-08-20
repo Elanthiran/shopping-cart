@@ -36,6 +36,19 @@ shopping-cart/
 ├── main.jsx
 └── README.md
 
+---
+
+## 🔧 Usage
+
+1. Browse the product list displayed on the homepage.
+
+2. Click Add to Cart to add an item.
+
+3. Click Remove from Cart to remove an item.
+
+4. The cart updates dynamically as you add or remove products.
+
+---
 
 ## 🚀 Getting Started
 🔹 Clone the repo
