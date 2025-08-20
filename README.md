@@ -21,6 +21,7 @@ Built using **React**, **Bootstrap**, and **functional components**.
 ![shopping-cart](./shopping-cart.png)
 
 📱 Mobile View:
+![shopping-cart](./shopping-cart1.png)
 
 
 --- 
