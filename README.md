@@ -1,4 +1,4 @@
-# 🛍️ React E-Commerce Template
+# 🛍️ shopping-cart
 
 A simple React-based e-commerce product display page featuring a navigation bar, header, product cards with add/remove cart functionality, and a footer.  
 Built using **React**, **Bootstrap**, and **functional components**.
@@ -19,8 +19,12 @@ Built using **React**, **Bootstrap**, and **functional components**.
 
 
 
+--- 
+
 ## 📦 Project Structure
-├── components/
+shopping-cart/
+├──src
+│ ├── components/
 │ ├── Content.jsx
 │ ├── Footer.jsx
 │ ├── Header.jsx
@@ -33,33 +37,44 @@ Built using **React**, **Bootstrap**, and **functional components**.
 └── README.md
 
 
-Install dependencies:
+## 🚀 Getting Started
+🔹 Clone the repo
+```bash
+git clone https://github.com/Elanthiran/shopping-cart.git
+cd shopping-cart
+```
+---
+## Install dependencies:
+```bash
 * npm install
-* npm install bootstrap
+```
 
-Start the development server:
+
+## Start the development server:
+```bash
 * npm run dev
+```
 
-
-🧱 Built With
+## 🛠 Tech Stack
 - React
 - Bootstrap 5
 - Vite
 - PropTypes
 
+---
 
-💡 Future Improvements
+## 💡 Future Improvements
 - Add global cart state (Context API or Redux)
 - Product filtering/search feature
 - Persist cart in local storage
 - Connect to backend/API for real data
 
-📃 License
+--- 
+
+## 📃 License
 This project is licensed under the MIT License.
 
-🙋‍♂️ Author
-Elanthiran
-GitHub: @Elanthiran
+
 
 
 
