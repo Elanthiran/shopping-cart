@@ -18,9 +18,13 @@ Built using **React**, **Bootstrap**, and **functional components**.
 ## 📸 Screenshots
 
 💻 Desktop View :
+
+
 ![shopping-cart](./shopping-cart.png)
 
 📱 Mobile View:
+
+
 ![shopping-cart](./shopping-cart1.png)
 
 
